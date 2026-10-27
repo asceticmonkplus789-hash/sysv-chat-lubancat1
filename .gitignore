@@ -1,0 +1,6 @@
+/chat
+*.o
+__pycache__/
+test_logs/
+board-test-*.log
+test-console.log
